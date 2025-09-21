@@ -20,7 +20,6 @@ import (
 
 func main() {
 	port := 8000
-	start := time.Now()
 	loggi.Info(fmt.Sprintf("server running on port %d", port))
 
 	diskFree := 5
