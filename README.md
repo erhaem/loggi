@@ -35,3 +35,6 @@ func main() {
 	loggi.Info("all set!")
 }
 ```
+## Screenshot
+
+![Example](loggi-example.jpg)
