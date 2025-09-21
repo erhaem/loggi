@@ -38,3 +38,7 @@ func main() {
 ## Screenshot
 
 ![Example](loggi-example.jpg)
+
+## License
+
+[WTFPL](LICENSE)
