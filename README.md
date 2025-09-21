@@ -1,6 +1,6 @@
 # loggi
 
-Yet another simple Go colored logger.
+Yet another simple Go colored logger. Print logs with colors and timestamp in Go! 
 
 ## Installation
 ```bash
